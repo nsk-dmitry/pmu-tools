@@ -1,0 +1,5 @@
+*.pyc
+slog.*
+res-*
+all-events
+derived-events
